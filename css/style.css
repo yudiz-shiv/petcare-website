@@ -518,7 +518,9 @@ transition: top 0.2s ease 0.2s, transform 0.2s ease;
   text-transform: capitalize;
   margin: 0 0 25px;
 }
-
+.home-text h1 span{
+  color: var(--light-red);
+}
 .home-text p {
   margin: 0 0 30px;
 }
